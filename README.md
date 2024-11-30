@@ -2,6 +2,11 @@
 
 # PROJECT TOPIC: Predictive Modeling for COVID-19 in Public Health
 
+## Table of Contents
+- [Introduction](#Introduction)
+- [Project Overview](#project-overview)
+- 
+
 ## Introduction
 The COVID-19 pandemic, caused by the SARS-CoV-2 virus, emerged in late 2019 and quickly spread worldwide, leading to a global health crisis. Characterized by respiratory symptoms ranging from mild to severe, the virus significantly impacted healthcare systems, economies, and daily life. With millions of confirmed cases and fatalities, the pandemic underscored the critical need for effective public health strategies, timely data analysis, and predictive modeling to mitigate its effects and prevent future outbreaks.
 
