@@ -233,7 +233,7 @@ df = pd.read_csv(“covid_19_clean_complete.csv”)
 df = df.ffill()
 ```
 
-**Create missing columns if needed **
+**Create missing columns if needed**
 ```python
 df["daily_growth_rate"] = df["Confirmed"].pct_change().fillna(0) * 100
 df["mortality_rate"] = (df["Deaths"] / df["Confirmed"]).fillna(0) * 100
