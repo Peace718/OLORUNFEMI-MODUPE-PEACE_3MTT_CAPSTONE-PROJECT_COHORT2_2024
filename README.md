@@ -302,11 +302,11 @@ The Random Forest model demonstrated robust performance, with accuracy (98%) and
 
 ## Recommendations
 Based on the analysis, the following recommendations are proposed:
-1.	Strengthen Surveillance Systems: Enhance real-time data collection and monitoring to improve the accuracy of predictive models.
-2.	Resource Allocation: Use insights from predictive models to prioritize resources for heavily impacted regions.
-3.	Policy Adjustments: Tailor public health policies based on trends in mortality and recovery rates to optimize health outcomes.
-4.	Continuous Model Refinement: Update the models with newer data to maintain relevance and improve accuracy.
-5.	Public Awareness Campaigns: Leverage insights to design campaigns focused on mitigating virus spread in regions with high growth rates.
+1.	**Strengthen Surveillance Systems**: Enhance real-time data collection and monitoring to improve the accuracy of predictive models.
+2.	**Resource Allocation**: Use insights from predictive models to prioritize resources for heavily impacted regions.
+3.	**Policy Adjustments**: Tailor public health policies based on trends in mortality and recovery rates to optimize health outcomes.
+4.	**Continuous Model Refinement**: Update the models with newer data to maintain relevance and improve accuracy.
+5.	**Public Awareness Campaigns**: Leverage insights to design campaigns focused on mitigating virus spread in regions with high growth rates.
 
 ## Conclusion
 This project demonstrates the power of data-driven approaches in public health decision-making. By leveraging predictive models and data analysis, we provided actionable insights into COVID-19’s spread and severity. The Holt-Winters model effectively captured time-series trends, while the Random Forest Classifier showcased strong performance in case classification. These models offer valuable tools for future outbreak management and highlight the importance of integrating data science into public health strategies. Continuous data updates and model refinements are essential to address evolving challenges and improve health outcomes globally.
