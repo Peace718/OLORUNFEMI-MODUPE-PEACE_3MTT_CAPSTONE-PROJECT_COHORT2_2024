@@ -31,6 +31,7 @@ The COVID-19 dataset CSV file used for this analysis was downloaded from Kaggle.
 8.	**Recovered**: Cumulative number of recoveries from COVID-19.
 9.	**Active**: Current active cases (calculated as Confirmed - Deaths - Recovered).
 10.	**WHO Region**: World Health Organization region associated with the country/region.
+
 The dataset was analyzed using Python.
 
 ## Data Preprocessing
