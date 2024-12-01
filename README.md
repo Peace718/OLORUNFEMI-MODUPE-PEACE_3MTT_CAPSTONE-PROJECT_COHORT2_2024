@@ -198,9 +198,9 @@ plt.show()
 ```
 
 ### Findings:
--	Training Data (Blue Line): Showed a consistent upward trend, highlighting the exponential spread of the virus.
-- Testing Data (Dark Blue Line): Followed the exponential growth observed in the training data.
--	Predicted Data (Orange Line): Closely followed the trend of the test data, demonstrating the model’s ability to predict future case counts under steady conditions.
+-	**Training Data (Blue Line)**: Showed a consistent upward trend, highlighting the exponential spread of the virus.
+- **Testing Data (Dark Blue Line)**: Followed the exponential growth observed in the training data.
+-	**Predicted Data (Orange Line)**: Closely followed the trend of the test data, demonstrating the model’s ability to predict future case counts under steady conditions.
 
 The model effectively captured trends and seasonality in confirmed cases, providing valuable predictions for future trajectories.
 
