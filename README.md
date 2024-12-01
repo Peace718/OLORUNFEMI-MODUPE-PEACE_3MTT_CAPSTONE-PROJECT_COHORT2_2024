@@ -229,12 +229,12 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 df = pd.read_csv(“covid_19_clean_complete.csv”)
 ```
 
-**Ensuring no missing values in the dataset**
+**Ensure no missing values in the dataset**
 ```python
 df = df.ffill()
 ```
 
-**Create missing columns if needed**
+**Create missing columns**
 ```python
 df["daily_growth_rate"] = df["Confirmed"].pct_change().fillna(0) * 100
 df["mortality_rate"] = (df["Deaths"] / df["Confirmed"]).fillna(0) * 100
