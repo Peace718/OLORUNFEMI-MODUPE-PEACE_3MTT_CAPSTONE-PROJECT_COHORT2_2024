@@ -206,9 +206,9 @@ The model effectively captured trends and seasonality in confirmed cases, provid
 
 ## Classification Predictive Model, Evaluation, and Findings
 A Random Forest Classifier was used to classify whether the number of confirmed COVID-19 cases exceeded 1,000 based on daily growth rate, mortality rate, and recovered cases. Key steps included:
-1.	Feature Engineering: Derived features like daily growth rate and mortality rate.
-2.	Modeling: An 80/20 train-test split was used, with features including daily growth rate, mortality rate, and recovered cases.
-3.	Evaluation Metrics:
+1.	**Feature Engineering**: Derived features like daily growth rate and mortality rate.
+2.	**Modeling**: An 80/20 train-test split was used, with features including daily growth rate, mortality rate, and recovered cases.
+3.	**Evaluation Metrics**:
 -	Accuracy: 98%
 -	Precision: 99%
 -	Recall: 96%
