@@ -1,5 +1,7 @@
 # OLORUNFEMI-MODUPE-PEACE_3MTT_CAPSTONE-PROJECT_COHORT2_2024
 
+![] project image.png
+
 # PROJECT TOPIC: Predictive Modeling for COVID-19 in Public Health
 
 ## Table of Contents
