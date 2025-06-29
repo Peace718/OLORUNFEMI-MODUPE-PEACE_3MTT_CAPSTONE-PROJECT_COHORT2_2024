@@ -10,6 +10,7 @@
 - [Exploratory Data Analysis and Insights](#exploratory-data-analysis-and-insights)
 - [Time Series Predictive Model, Evaluation, and Findings](#time-series-predictive-model-evaluation-and-findings)
 - [Classification Predictive Model, Evaluation, and Findings](#classification-predictive-model-evaluation-and-findings)
+- [Data Visualization](#data-visualization)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
