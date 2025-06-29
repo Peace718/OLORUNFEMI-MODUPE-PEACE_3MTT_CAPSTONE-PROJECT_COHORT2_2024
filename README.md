@@ -300,6 +300,9 @@ print(classification_report(y_test, y_pred))
 ### Findings:
 The Random Forest model demonstrated robust performance, with accuracy (98%) and precision (99%) making it a valuable tool for monitoring trends and threshold cases. This model effectively classified COVID-19 cases and provided reliable predictions for public health applications.
 
+## Data Visualization
+Please view the visualization in the [Google Slides presentation here](https://docs.google.com/presentation/d/1KKoaHO9lGhAuc0K4Il3C9xWB4C6wyKta4C2cRmOb7Ao/edit?usp=sharing)
+
 ## Recommendations
 Based on the analysis, the following recommendations are proposed:
 1.	**Strengthen Surveillance Systems**: Enhance real-time data collection and monitoring to improve the accuracy of predictive models.
